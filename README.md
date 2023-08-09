@@ -18,6 +18,8 @@ An enthusiastic Software Engineer working on Backend Technology for the past 2 y
 
 - path module
 
+- own module - import and export
+
 
 ## Run Locally
 
@@ -44,6 +46,8 @@ Go to the project directory
 - [`os module`](https://github.com/PiyushJiwane/NodeJS-Concpets/tree/main/OperatingSystem) - This folder contains all the built-in functions to get the information related to Operating System.
 
 - [`path module`](https://github.com/PiyushJiwane/NodeJS-Concpets/tree/main/PathSystem) - This folder contains all the built-in functions to deal with the directory and files.
+
+- [`own module`](https://github.com/PiyushJiwane/NodeJS-Concpets/tree/main/OwnModules) - This folder contains the code to create our own module and how to use it.
 
 ## Author
 
