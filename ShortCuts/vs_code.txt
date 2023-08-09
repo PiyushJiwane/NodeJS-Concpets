@@ -1,0 +1,27 @@
+ctrl + space 	: show suggetion
+
+ctrl + / 	    : toggle line comment
+
+ctrl + P	    : search bar for file in current directory
+
+ctrl + shift + L : multi-cursor select
+
+ctrl + B	    : toggle the sidebar
+
+alt + up or alt + down : move line
+
+ctrl + O 	    : to open current file
+
+ctrl + D	    : one by one select
+
+ctrl + shift + E : show file in explorer window
+
+ctrl + X        : delete line
+
+ctrl + C or ctrl + v : click on any line without completely selecting it.
+
+shift + alt + up/down : copy past
+
+ctrl + J or ctrl + ` : To open bottom terminal/panel
+
+shift + alt + F : to formats the selected data
