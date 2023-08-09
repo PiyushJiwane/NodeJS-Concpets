@@ -43,7 +43,7 @@ Go to the project directory
 
 - [`os module`](https://github.com/PiyushJiwane/NodeJS-Concpets/tree/main/OperatingSystem) - This folder contains all the built-in functions to get the information related to Operating System.
 
-- [`os module`](https://github.com/PiyushJiwane/NodeJS-Concpets/tree/main/PathSystem) - This folder contains all the built-in functions to deal with the directory and files.
+- [`path module`](https://github.com/PiyushJiwane/NodeJS-Concpets/tree/main/PathSystem) - This folder contains all the built-in functions to deal with the directory and files.
 
 ## Author
 
