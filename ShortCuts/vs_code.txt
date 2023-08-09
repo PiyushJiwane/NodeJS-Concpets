@@ -16,7 +16,7 @@ ctrl + D	    : one by one select
 
 ctrl + shift + E : show file in explorer window
 
-ctrl + X        : delete line
+ctrl + X        : delete line / cut line
 
 ctrl + C or ctrl + v : click on any line without completely selecting it.
 
@@ -25,3 +25,7 @@ shift + alt + up/down : copy past
 ctrl + J or ctrl + ` : To open bottom terminal/panel
 
 shift + alt + F : to formats the selected data
+
+ctrl + shift + \ : Jump to matching bracket
+
+shift + alt+ ↑ / ↓ : Insert cursor above/below
